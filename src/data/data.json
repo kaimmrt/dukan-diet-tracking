@@ -1,0 +1,340 @@
+[
+  [
+    {
+      "time": "morning",
+      "meal": [
+        "1 glass of milk",
+        "1 egg",
+        "1 slice of brown bread",
+        "1 matchbox cheese",
+        "5 olives"
+      ]
+    },
+    {
+      "time": "afternoon",
+      "meal": [
+        "1 slice of bread",
+        "1 portion of rice",
+        "1 bowl of yogurt",
+        "3 meatballs",
+        "1 portion of salad"
+      ]
+    },
+    {
+      "time": "evening",
+      "meal": ["1 slice of bread", "1 bowl of soup", "1 bowl of yogurt"]
+    },
+    {
+      "time": "snack",
+      "meal": [
+        "1 apple",
+        "5 almonds",
+        "5 cashews",
+        "5 hazelnuts",
+        "1 mandarin",
+        "1 banana"
+      ]
+    }
+  ],
+  [
+    {
+      "time": "morning",
+      "meal": [
+        "1.5 glass of milk",
+        "1 egg",
+        "1 slice of brown bread",
+        "1 matchbox cheese",
+        "5 olives"
+      ]
+    },
+    {
+      "time": "afternoon",
+      "meal": [
+        "1 slice of bread",
+        "1 portion of rice",
+        "1 bowl of yogurt",
+        "2 pieces of chicken",
+        "1 portion of salad"
+      ]
+    },
+    {
+      "time": "evening",
+      "meal": ["1 slice of bread", "1 bowl of soup", "1 bowl of yogurt"]
+    },
+    {
+      "time": "snack",
+      "meal": [
+        "1 apple",
+        "5 almonds",
+        "5 cashews",
+        "5 hazelnuts",
+        "1 mandarin",
+        "1 banana"
+      ]
+    }
+  ],
+  [
+    {
+      "time": "morning",
+      "meal": [
+        "1.5 glass of milk",
+        "2 egg",
+        "1 slice of brown bread",
+        "1 matchbox cheese",
+        "5 olives",
+        "1 tomato"
+      ]
+    },
+    {
+      "time": "afternoon",
+      "meal": [
+        "1.5 slice of bread",
+        "1 portion of rice",
+        "1 bowl of yogurt",
+        "2 pieces of chicken",
+        "1 portion of salad"
+      ]
+    },
+    {
+      "time": "evening",
+      "meal": [
+        "1 slice of bread",
+        "1 bowl of soup",
+        "1 bowl of yogurt",
+        "1 portion of salad"
+      ]
+    },
+    {
+      "time": "snack",
+      "meal": [
+        "2 apple",
+        "6 almonds",
+        "6 cashews",
+        "6 hazelnuts",
+        "1 mandarin",
+        "1 banana"
+      ]
+    }
+  ],
+  [
+    {
+      "time": "morning",
+      "meal": [
+        "1.5 glass of milk",
+        "2 egg",
+        "1 slice of brown bread",
+        "1 matchbox cheese",
+        "5 olives",
+        "1 tomato",
+        "1 cucumber"
+      ]
+    },
+    {
+      "time": "afternoon",
+      "meal": [
+        "1.5 slice of bread",
+        "1 portion of rice",
+        "1 bowl of yogurt",
+        "2 pieces of chicken",
+        "1 portion of salad"
+      ]
+    },
+    {
+      "time": "evening",
+      "meal": [
+        "1.5 slice of bread",
+        "1 bowl of soup",
+        "1 bowl of yogurt",
+        "1 portion of salad"
+      ]
+    },
+    {
+      "time": "snack",
+      "meal": [
+        "2 apple",
+        "6 almonds",
+        "6 cashews",
+        "6 hazelnuts",
+        "2 mandarin",
+        "1 banana"
+      ]
+    }
+  ],
+  [
+    {
+      "time": "morning",
+      "meal": [
+        "2 glass of milk",
+        "2 egg",
+        "2 slice of brown bread",
+        "1 matchbox cheese",
+        "6 olives",
+        "1 tomato",
+        "1 cucumber"
+      ]
+    },
+    {
+      "time": "afternoon",
+      "meal": [
+        "2 slice of bread",
+        "1 portion of rice",
+        "1 bowl of yogurt",
+        "2 meatball",
+        "1 piece of chicken",
+        "1 portion of salad"
+      ]
+    },
+    {
+      "time": "evening",
+      "meal": [
+        "2 slice of bread",
+        "1 bowl of soup",
+        "1 bowl of yogurt",
+        "1 portion of salad"
+      ]
+    },
+    {
+      "time": "snack",
+      "meal": [
+        "2 apple",
+        "7 almonds",
+        "5 cashews",
+        "6 hazelnuts",
+        "2 mandarin",
+        "2 banana"
+      ]
+    }
+  ],
+  [
+    {
+      "time": "morning",
+      "meal": [
+        "2 glass of milk",
+        "2 egg",
+        "2 slice of brown bread",
+        "1 matchbox cheese",
+        "6 olives",
+        "2 tomato",
+        "2 cucumber"
+      ]
+    },
+    {
+      "time": "afternoon",
+      "meal": [
+        "2 slice of bread",
+        "1 portion of rice",
+        "1 bowl of yogurt",
+        "3 meatball",
+        "1 piece of chicken",
+        "1 portion of salad"
+      ]
+    },
+    {
+      "time": "evening",
+      "meal": [
+        "2 slice of bread",
+        "1 bowl of soup",
+        "1 bowl of yogurt",
+        "1.5 portion of salad"
+      ]
+    },
+    {
+      "time": "snack",
+      "meal": [
+        "2 apple",
+        "7 almonds",
+        "5 cashews",
+        "6 hazelnuts",
+        "2 mandarin",
+        "3 banana"
+      ]
+    }
+  ],
+  [
+    {
+      "time": "morning",
+      "meal": [
+        "2 glass of milk",
+        "2 egg",
+        "2 slice of brown bread",
+        "1 matchbox cheese",
+        "6 olives",
+        "2 tomato",
+        "2 cucumber"
+      ]
+    },
+    {
+      "time": "afternoon",
+      "meal": [
+        "2 slice of bread",
+        "1 portion of rice",
+        "1 piece of chicken",
+        "1 piece of met",
+        "1.5 portion of salad"
+      ]
+    },
+    {
+      "time": "evening",
+      "meal": [
+        "2 slice of bread",
+        "1 bowl of soup",
+        "1 bowl of yogurt",
+        "1 piece of chicken"
+      ]
+    },
+    {
+      "time": "snack",
+      "meal": [
+        "2 apple",
+        "1 pear",
+        "7 almonds",
+        "6 hazelnuts",
+        "2 mandarin",
+        "2 orange"
+      ]
+    }
+  ],
+  [
+    {
+      "time": "morning",
+      "meal": [
+        "2 glass of milk",
+        "3 egg",
+        "2 slice of brown bread",
+        "1 matchbox cheese",
+        "2 tomato"
+      ]
+    },
+    {
+      "time": "afternoon",
+      "meal": [
+        "1 slice of bread",
+        "1.5 portion of rice",
+        "2 meatball",
+        "1 piece of met",
+        "1 portion of salad",
+        "1 bowl of yogurt"
+      ]
+    },
+    {
+      "time": "evening",
+      "meal": [
+        "2 slice of bread",
+        "1 bowl of soup",
+        "1 bowl of yogurt",
+        "1 piece of chicken"
+      ]
+    },
+    {
+      "time": "snack",
+      "meal": [
+        "2 apple",
+        "1 pear",
+        "7 almonds",
+        "6 hazelnuts",
+        "2 mandarin",
+        "2 orange"
+      ]
+    }
+  ]
+]
